@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cricket Lions Satkhira</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f4;
+            margin: 0;
+            padding: 0;
+            text-align: center;
+        }
+        header {
+            background-color: #333;
+            color: white;
+            padding: 20px 0;
+        }
+        header h1 {
+            margin: 0;
+            font-size: 2.5em;
+        }
+        nav {
+            margin: 20px 0;
+        }
+        nav a {
+            color: #333;
+            text-decoration: none;
+            margin: 0 15px;
+            font-size: 1.2em;
+        }
+        nav a:hover {
+            text-decoration: underline;
+        }
+        section {
+            padding: 20px;
+        }
+        footer {
+            background-color: #333;
+            color: white;
+            padding: 10px 0;
+            position: relative;
+            bottom: 0;
+            width: 100%;
+        }
+        ul {
+            list-style-type: none;
+            padding: 0;
+        }
+        li {
+            margin: 10px 0;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Cricket Lions Satkhira</h1>
+    </header>
+
+    <nav>
+        <a href="#about">About</a>
+        <a href="#team">Team</a>
+        <a href="#players">Player List</a>
+        <a href="#contact">Contact</a>
+    </nav>
+
+    <section id="about">
+        <h2>About Us</h2>
+        <p>Welcome to Cricket Lions Satkhira, the pride of Satkhira cricket! Join us as we embark on an exciting journey in the world of cricket.</p>
+    </section>
+
+    <section id="team">
+        <h2>Our Team</h2>
+        <p>Meet the talented players of Cricket Lions Satkhira who bring passion and skill to every match.</p>
+    </section>
+
+    <section id="players">
+        <h2>Player List</h2>
+        <ul>
+            <li>Player 1 - Captain</li>
+            <li>Player 2 - All-Rounder</li>
+            <li>Player 3 - Batsman</li>
+            <li>Player 4 - Bowler</li>
+            <li>Player 5 - Wicketkeeper</li>
+            <!-- Add more players as needed -->
+        </ul>
+    </section>
+
+    <section id="contact">
+        <h2>Contact Us</h2>
+        <p>Get in touch with us for more information or to support our team.</p>
+    </section>
+
+    <footer>
+        <p>&copy; 2025 Cricket Lions Satkhira. All rights reserved.</p>
+    </footer>
+</body>
+</html>
